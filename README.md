@@ -1,5 +1,5 @@
-<h2 align="center">Hey there 👋, I'm Lichih</h2>
-<h3 align="center">A passionate Web Developer</h3>
+<h2 align="center">Hey there 👋, I'm Lichih.</h2>
+<h3 align="center">A passionate Web Developer.</h3>
 
 - 🌱 I’m currently learning **React, Redux.**
 

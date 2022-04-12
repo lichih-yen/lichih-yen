@@ -1,7 +1,13 @@
 <h2 align="center">Hey there 👋, I'm Lichih.</h2>
 <h3 align="center">A passionate Web Developer.</h3>
 
+- 👨‍🎓 I’m a **Web and Application Development student at Fanshawe College.**
+
+- 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, GCSS Preprocessor..., and other Web development skills.**
+
 - 🌱 I’m currently learning **React, Redux.**
+
+- 📩 How to reach me: **lichih.yen@gmail.com**
 
 - ⚡ Fun fact: **I love photography because it can record the life of beautiful moments!**
 

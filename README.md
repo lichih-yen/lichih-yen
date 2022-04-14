@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m a **Web and Application Development student at Fanshawe College.**
 
-- 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, GCSS Preprocessor..., and other Web development skills.**
+- 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, Git, CSS Preprocessor..., and other Web development skills.**
 
 - 🌱 I’m currently learning **React, Redux.**
 

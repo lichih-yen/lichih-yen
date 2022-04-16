@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋, I'm Lichih.</h2>
 <h3 align="center">A passionate Web Developer.</h3>
 
-- 👨‍🎓 I’m a **Web and Application Development student at Fanshawe College.**
+- 👨‍🎓 I’m a **Web Development and Internet Applications student at Fanshawe College.**
 
 - 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, Git, CSS Preprocessor..., and other Web development skills.**
 

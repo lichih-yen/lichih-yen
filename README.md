@@ -9,6 +9,8 @@
 
 - 📩 How to reach me: **lichih.yen@gmail.com**
 
+- 🔗 Check out and connect with my **LinkedIn**: **https://www.linkedin.com/in/lichih-yen**
+
 - ⚡ Fun fact: **I love photography because it can record the life of beautiful moments!**
 
 <!-- <h4 align="left">Connect with me:</h4> -->

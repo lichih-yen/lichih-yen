@@ -3,9 +3,9 @@
 
 - 👨‍🎓 I’m an **Internet Applications and Web Development** student who graduated from Fanshawe College.
 
-- 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, Git, CSS Preprocessor..., and other Web development skills.**
+- 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, React, Redux, Git, CSS Preprocessor..., and other Web development skills.**
 
-- 🌱 I’m currently learning **React, Redux.**
+- 🌱 I’m currently learning **TypeScript**.
 
 - 📩 How to reach me: **lichih.yen@gmail.com**
 

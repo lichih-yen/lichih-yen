@@ -1,4 +1,4 @@
-<h2 align="center">Hey there 👋, I'm Lichih.</h2>
+<h2 align="center">Hey there 👋, I'm Li-Chih.</h2>
 <h3 align="center">A passionate Web Developer.</h3>
 
 - 👨‍🎓 I’m an **Internet Applications and Web Development** student who graduated from Fanshawe College.

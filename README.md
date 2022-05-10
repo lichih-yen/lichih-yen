@@ -1,7 +1,7 @@
 <h2 align="center">Hey there 👋, I'm Li-Chih.</h2>
 <h3 align="center">A passionate Web Developer.</h3>
 
-- 👨‍🎓 I’m an **Internet Applications and Web Development** student who graduated from Fanshawe College.
+- 👨‍🎓 I’m an **Internet Applications and Web Development** student who recently graduated from Fanshawe College.
 
 - 🏋️‍♂️ I'm enthusiastic about improving my skills **JavaScript, React, Redux, Git, CSS Preprocessor..., and other Web development skills.**
 

@@ -3,7 +3,7 @@
 
 - 👨‍🎓 I’m an **Internet Applications and Web Development** student who recently graduated from Fanshawe College.
 
-- 🏋️‍♂️ I'm enthusiastic about improving skills of **JavaScript, React.js, Redux, Git, HTML/CSS, SASS/SCSS..., and other Web development skills.**
+- 🏋️‍♂️ I'm enthusiastic about improving skills of **JavaScript, React.js, Redux, Git, SASS/SCSS..., and other Web development skills.**
 
 - 🌱 I’m currently learning **TypeScript**.
 

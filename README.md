@@ -1,11 +1,9 @@
 <h2 align="center">Hey there 👋, I'm Li-Chih (Richie).</h2>
 <h3 align="center">A passionate Web Developer.</h3>
 
-- 👨‍🎓 I’m an **Internet Applications and Web Development** student who recently graduated from Fanshawe College.
+- 🏋️‍♂️ I'm enthusiastic about improving skills of **JavaScript, React.js, Node.js, Express, Git..., and other Web development skills.**
 
-- 🏋️‍♂️ I'm enthusiastic about improving skills of **JavaScript, React.js, Redux, Git, SASS/SCSS..., and other Web development skills.**
-
-- 🌱 I’m currently learning **TypeScript**.
+- 🌱 I’m currently learning **TypeScript and MongoDB**.
 
 - 📩 How to reach me: **lichih.yen@gmail.com**
 

@@ -3,7 +3,7 @@
 
 - 🏋️‍♂️ I'm enthusiastic about improving skills of **JavaScript, React.js, Node.js, Express, Git..., and other Web development skills.**
 
-- 🌱 I’m currently learning **TypeScript and MongoDB**.
+- 🌱 I’m currently learning **MongoDB abd TypeScript**.
 
 - 📩 How to reach me: **lichih.yen@gmail.com**
 
